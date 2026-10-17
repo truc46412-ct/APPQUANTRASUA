@@ -22,6 +22,7 @@ MENU_TEA = {
     "Trà Đào Cam Sả": 35000,
     "Trà Dâu Tằm": 32000,
     "Hồng Trà": 50000,
+    "Bơ Già Dừa Non": 30000,
 }
 
 SIZE_OPTIONS = {
